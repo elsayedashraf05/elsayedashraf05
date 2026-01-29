@@ -166,36 +166,6 @@ Sprints x Microsoft
 
 </div>
 
----
-
-## 🎯 CORE COMPETENCIES
-
-```yaml
-Machine Learning:
-  - Classification & Regression Models
-  - Feature Engineering & Selection
-  - Model Evaluation & Optimization
-  - End-to-End ML Pipelines
-  
-Embedded Systems:
-  - Arduino & Microcontroller Programming
-  - Sensor Integration & Calibration
-  - Real-Time Data Acquisition
-  - Hardware-Software Co-Design
-  
-Data Engineering:
-  - SQL Query Design & Optimization
-  - Cloud Data Storage (Azure)
-  - ETL Pipeline Development
-  - Data Modeling & Transformation
-
-Signal Processing:
-  - Digital Signal Analysis
-  - MATLAB/Python Implementation
-  - Biomedical Signal Processing
-  - Optical System Characterization
-```
-
 
 ---
 
