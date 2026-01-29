@@ -81,7 +81,6 @@ class Engineer:
 
 **The Challenge**: Implement a complete machine learning pipeline using only C programming language  
 **The Solution**: Built custom data structures, feature extraction, and classification algorithms from the ground up
-```
 
 **Tech Stack**: `C` `Manual Memory Management` `Custom Algorithms`
 
