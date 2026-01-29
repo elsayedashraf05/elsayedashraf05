@@ -155,17 +155,34 @@ Sprints x Microsoft
 
 ---
 
-## 📊 GITHUB ANALYTICS
+## 📊 GITHUB ACTIVITY
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elsayedashraf05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true)
+[![GitHub followers](https://img.shields.io/github/followers/elsayedashraf05?style=for-the-badge&logo=github&logoColor=white&color=00D9FF)](https://github.com/elsayedashraf05)
+[![GitHub User's stars](https://img.shields.io/github/stars/elsayedashraf05?style=for-the-badge&logo=github&logoColor=white&color=00D9FF)](https://github.com/elsayedashraf05)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elsayedashraf05&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
+### 🚀 Recent Focus Areas
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elsayedashraf05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8)
+```text
+🧠 Machine Learning         ███████████████████░░   95%
+💾 Data Engineering        ██████████████████░░░   90%
+⚡ Embedded Systems        ████████████████░░░░░   80%
+🔬 Research & Analysis     ███████████████░░░░░░   75%
+```
+
+### 📈 Current Projects & Learning
+
+| Area | Status | Technologies |
+|------|--------|-------------|
+| **Microsoft Azure** | 🟢 Active | Data Engineering, Cloud Services |
+| **TinyML Research** | 🟢 Active | C Programming, Edge AI |
+| **Optics Research** | 🟢 Active | MATLAB, Python Analysis |
+| **Embedded ML** | 🟡 Exploring | Arduino, Low-level Implementation |
 
 </div>
+
+---
 
 ## 💡 WHAT I'M CURRENTLY WORKING ON
 
