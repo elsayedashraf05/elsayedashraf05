@@ -153,34 +153,6 @@ Sprints x Microsoft
 </tr>
 </table>
 
----
-
-## 📊 GITHUB ACTIVITY
-
-<div align="center">
-
-[![GitHub followers](https://img.shields.io/github/followers/elsayedashraf05?style=for-the-badge&logo=github&logoColor=white&color=00D9FF)](https://github.com/elsayedashraf05)
-[![GitHub User's stars](https://img.shields.io/github/stars/elsayedashraf05?style=for-the-badge&logo=github&logoColor=white&color=00D9FF)](https://github.com/elsayedashraf05)
-
-### 🚀 Recent Focus Areas
-
-```text
-🧠 Machine Learning         ███████████████████░░   95%
-💾 Data Engineering        ██████████████████░░░   90%
-⚡ Embedded Systems        ████████████████░░░░░   80%
-🔬 Research & Analysis     ███████████████░░░░░░   75%
-```
-
-### 📈 Current Projects & Learning
-
-| Area | Status | Technologies |
-|------|--------|-------------|
-| **Microsoft Azure** | 🟢 Active | Data Engineering, Cloud Services |
-| **TinyML Research** | 🟢 Active | C Programming, Edge AI |
-| **Optics Research** | 🟢 Active | MATLAB, Python Analysis |
-| **Embedded ML** | 🟡 Exploring | Arduino, Low-level Implementation |
-
-</div>
 
 ---
 
