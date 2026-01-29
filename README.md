@@ -5,11 +5,11 @@
 **Electrical Communications & Electronics Engineering**  
 *Alexandria University*
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Embedded+Systems+Developer;Data+Engineering+Enthusiast;TinyML+%26+Edge+AI+Researcher" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Embedded+Systems+Student;Data+Engineering+Enthusiast;TinyML+%26+Tiny+LLM+Enthusiast" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elsayed-ashraf-bakry)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elsayed-ashraf-bakry-ab9b431b4/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayedworkacc@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ExpiredEng)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elsayedashraf05)
 
 </div>
 
@@ -23,15 +23,14 @@ Bridging the **physical** and **digital** worlds through intelligent systems. Fr
 class Engineer:
     def __init__(self):
         self.name = "Elsayed Ashraf Bakry"
-        self.role = "ML & Embedded Systems Engineer"
+        self.role = "ML & Embedded Systems Undergraduate"
         self.location = "Alexandria, Egypt"
         self.interests = ["TinyML", "Edge AI", "IoT", "Data Engineering"]
         
     def current_focus(self):
         return {
-            "learning": "Microsoft Azure Data Engineering",
-            "researching": "Optics & Photonics @ Virginia Tech Collab",
-            "building": "Low-level ML implementations in C"
+            "learning": "DEPI -- Microsoft Azure Data Engineering Track",
+            "TinyML,TinyLLM,EdgeAI: "Research Time"
         }
 ```
 
