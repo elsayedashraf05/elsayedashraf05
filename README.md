@@ -30,7 +30,7 @@ class Engineer:
     def current_focus(self):
         return {
             "learning": "DEPI -- Microsoft Azure Data Engineering Track",
-            "TinyML,TinyLLM,EdgeAI: "Research Time"
+            "TinyML,TinyLLM,EdgeAI": "Research Time"
         }
 ```
 
