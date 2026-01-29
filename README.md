@@ -159,7 +159,7 @@ Sprints x Microsoft
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ExpiredEng&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=elsayedashraf05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" height="170" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=elsayedashraf05&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" height="170" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsayedashraf05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" height="170" />
@@ -211,12 +211,6 @@ const currentProjects = {
 ---
 
 ## 📫 LET'S CONNECT
-
-I'm always interested in discussing:
-- 🤖 **TinyML & Edge AI** applications
-- 🔬 **Research collaborations** in embedded ML, or IoT
-- 💼 **Opportunities** in ML engineering or embedded systems
-- 💡 **Open source projects** at the hardware-software interface
 
 <div align="center">
 
