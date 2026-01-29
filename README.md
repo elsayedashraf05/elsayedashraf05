@@ -5,10 +5,11 @@
 **Electrical Communications & Electronics Engineering**  
 *Alexandria University*
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Embedded+Systems+Student;Data+Engineering+Enthusiast;TinyML+%26+Tiny+LLM+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Embedded+Systems;Data+Engineering;TinyML+%26+Edge+AI+Enthusiast" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elsayed-ashraf-bakry-ab9b431b4/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayedworkacc@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sayedbakry)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elsayedashraf05)
 
 </div>
@@ -23,10 +24,10 @@ Bridging the **physical** and **digital** worlds through intelligent systems. Fr
 class Engineer:
     def __init__(self):
         self.name = "Elsayed Ashraf Bakry"
-        self.role = "Electrical Communications and Electronics Undergraduate"
+        self.role = "Electrical Communications & Electronics Engineering Undergraduate"
         self.location = "Alexandria, Egypt"
         self.interests = ["TinyML", "Edge AI", "IoT", "Data Engineering"]
-        
+
 ```
 
 ---
@@ -80,22 +81,6 @@ class Engineer:
 
 **The Challenge**: Implement a complete machine learning pipeline using only C programming language  
 **The Solution**: Built custom data structures, feature extraction, and classification algorithms from the ground up
-
-- ⚡ **Zero Dependencies**: Pure C implementation with manual memory management
-- 🔬 **Educational Deep Dive**: Understanding ML at the lowest level for embedded applications
-- 🎯 **Focus**: Foundation for TinyML and edge computing research
-
-```c
-// Example: Low-level neural network forward pass
-void forward_pass(Layer* layer, float* input, float* output) {
-    for(int i = 0; i < layer->neurons; i++) {
-        output[i] = 0;
-        for(int j = 0; j < layer->inputs; j++) {
-            output[i] += input[j] * layer->weights[i][j];
-        }
-        output[i] = activate(output[i] + layer->bias[i]);
-    }
-}
 ```
 
 **Tech Stack**: `C` `Manual Memory Management` `Custom Algorithms`
@@ -112,14 +97,13 @@ void forward_pass(Layer* layer, float* input, float* output) {
 ### 📊 **Customer Churn Prediction Web App**
 > *End-to-end ML deployment for telecom analytics*
 
-**The Challenge**: Predict customer churn to enable proactive retention strategies  
-**The Solution**: Full-stack ML application with feature engineering and interactive deployment
 **Tech Stack**: `Python` `Scikit-learn` `Streamlit` `Pandas` `Matplotlib`
 
 ---
 
 ### ❤️ **Heart Disease Risk Prediction Pipeline**
 > *Clinical ML pipeline for cardiovascular risk assessment*
+
 **Tech Stack**: `Python` `Scikit-learn` `Pandas` `Seaborn` `Medical Data`
 
 ---
@@ -176,7 +160,7 @@ Sprints x Microsoft
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=elsayedashraf05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=ExpiredEng&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" height="170" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=elsayedashraf05&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" height="170" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsayedashraf05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" height="170" />
@@ -210,8 +194,11 @@ Signal Processing:
   - Digital Signal Analysis
   - MATLAB/Python Implementation
   - Biomedical Signal Processing
+  - Optical System Characterization
 ```
 
+
+---
 
 ## 💡 WHAT I'M CURRENTLY WORKING ON
 
@@ -236,12 +223,11 @@ I'm always interested in discussing:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/elsayed-ashraf-bakry-ab9b431b4/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayedworkacc@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Compete-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sayedbakry)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/elsayedashraf05)
 
 ---
 
 *"From silicon to software, building intelligent systems that matter"*
-
-![Profile Views](https://komarev.com/ghpvc/?username=elsayedashraf05&color=00D9FF&style=flat-square)
 
 </div>
